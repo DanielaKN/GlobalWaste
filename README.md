@@ -1,1 +1,5 @@
 # GlobalWaste
+
+```python
+python -m
+```
